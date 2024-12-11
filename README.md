@@ -1,7 +1,7 @@
-## https://majoritysilkdifference.github.io/
+## https://silkystickshift.github.io/
 
 ```bash
 - New games every week!
-- Proxies
+- Proxies!
 - Share with friends!
 ```
